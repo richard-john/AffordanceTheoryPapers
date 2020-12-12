@@ -3,12 +3,12 @@ A repository of affordance theory literature
 
 ## Books
 
-* **The Ecological Approach to Visual Perception** (1979) *Gibson, J.*
-* **The Psychology/Design of Everyday Things** (1989/2003/2013) *Norman, D.*
-* **Radical Embodied Cognition** (2009) *Chemero, A.*
-* **Affordance Based Design** (2011) *Maier, J.*
-* **The Philosophy of Affordances** (2019) *Heras-Escribano, M.*
-* **How Artifacts Afford: The Power and Politics of Everyday Things** (2020) *Davis, J.*
+* **[The Ecological Approach to Visual Perception](https://blackwells.co.uk/bookshop/product/The-Ecological-Approach-to-Visual-Perception-by-James-J-Gibson-author/9781848725782)** (1979) *Gibson, J.*
+* **[The Psychology/Design of Everyday Things](https://blackwells.co.uk/bookshop/product/The-Design-of-Everyday-Things-by-Donald-A-Norman-author/9780262525671)** (1989/2003/2013) *Norman, D.*
+* **[Radical Embodied Cognition](https://blackwells.co.uk/bookshop/product/Radical-Embodied-Cognitive-Science-by-Anthony-Chemero/9780262516471)** (2009) *Chemero, A.*
+* **[Affordance Based Design](https://blackwells.co.uk/bookshop/product/9783639325010)** (2011) *Maier, J.*
+* **[The Philosophy of Affordances](https://blackwells.co.uk/bookshop/product/The-Philosophy-of-Affordances-by-Manuel-Heras-Escribano-author/9783319988290)** (2019) *Heras-Escribano, M.*
+* **[How Artifacts Afford: The Power and Politics of Everyday Things](https://blackwells.co.uk/bookshop/product/How-Artifacts-Afford-by-Jenny-L-Davis-author/9780262044110)** (2020) *Davis, J.*
 
 ## Literature Reviews
 
@@ -37,6 +37,7 @@ A repository of affordance theory literature
 * **Socializing Affordances** (1995) *Costall, A.*
 * **An Activity Theory Approach to Affordance** (2002) *Baerentsen, K. & Trettvik, J.*
 * **Scaffolds for social meaning** (2007) *Schmidt, R.*
+* **What Can be Done with an Egg? Creativity, Material Objects, and the Theory of Affordances** (2012) *Glaveanu, V.*
 * **Organizational Affordances: A Structurational Theory Approach to Affordances** (2016) *Vyas, D. et al.*
 * **Cultural Affordances: Scaffolding Local Worlds Through Shared Intentionality and Regimes of Attention** (2016) *Ramstead, M.*
 * **Affordances and Landscapes: Overcoming the Nature–Culture Dichotomy through Niche Construction Theory** (2018) *Heras-Escribano, M. & Pinedo-Garcia, M.* 
@@ -68,6 +69,7 @@ A repository of affordance theory literature
 * **Affordance in Interaction** (2006) *Vyas, D. et al.*
 * **Beyond Affordances - Why Direct Perception is not Enough in Design Engineering** (2010) May, M.
 * **Affordances in HCI: Towards a Mediated Action Perspective** (2012) *Kaptelinin, V. & Nardi, B.*
+* **Designing Smart Objects to Support Affording Situtions: Exploiting Affordance Through an Understanding of Forms of Engagement** (2018) Baber, C.
 * **A Review of Affordances and Affordance-Based Design to Address Usability** (2019) *Masoudi, N. et al.*
 * **Dynamics of Affordances and Implications for Design** (????) *Vyas, D. et al.*
 * **A Process Framework for Affordances in Design** (????) *Kannengiesser, U. & Gero, J.*
