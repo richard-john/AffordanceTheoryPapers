@@ -57,8 +57,9 @@ A repository of affordance theory literature
 * **What we Perceive when we Perceive Affordances: Commentary on Michaels (2000) "Information, Perception, and Action"** (2001) *Chemero, A.*
 * **Radical Embodiment in Two Direction** (2018) *Baggs, E. & Chemero, A.*
 * **General Ecological Information Supports Engagement with Affordances for 'Higher' Cognition** (2019) *Bruineberg, J. et al.*
-* **An Enactive-Ecological Approach to Information and Uncertainty** (2020) *Carvalho, E. & Rolla, G.*
 * **Pragmatism, Enactivism, and Ecological Psychology: Towards a Unified Approach to Post-cognitivism** (2019) *Heras-Escribano, M.*
+* **An Enactive-Ecological Approach to Information and Uncertainty** (2020) *Carvalho, E. & Rolla, G.*
+
 
 ## Interaction Design and HCI
 * **Technology Affordances** (1991) *Gaver, W.*
