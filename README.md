@@ -38,7 +38,7 @@ A repository of affordance theory literature
 * **An Activity Theory Approach to Affordance** (2002) *Baerentsen, K. & Trettvik, J.*
 * **Scaffolds for social meaning** (2007) *Schmidt, R.*
 * **Organizational Affordances: A Structurational Theory Approach to Affordances** (2016) *Vyas, D. et al.*
-* **Cultural Affordances: Scaffolding Local Worlds Through Shared Intentionality and REgimes of Attention** (2016) *Ramstead, M.*
+* **Cultural Affordances: Scaffolding Local Worlds Through Shared Intentionality and Regimes of Attention** (2016) *Ramstead, M.*
 * **Affordances and Landscapes: Overcoming the Nature–Culture Dichotomy through Niche Construction Theory** (2018) *Heras-Escribano, M. & Pinedo-Garcia, M.* 
 * **Social Affordances** (2020) *Carvalho, E.*
 
@@ -72,6 +72,7 @@ A repository of affordance theory literature
 * **Dynamics of Affordances and Implications for Design** (????) *Vyas, D. et al.*
 * **A Process Framework for Affordances in Design** (????) *Kannengiesser, U. & Gero, J.*
 * **A Comparison of Affordance Concepts and Product Semantics** (????) *You, H. & Chen, K.*
+* **Affordances of Shape-Changing Interfaces: An Information Perspective on Transformability and Movement** (2020) *Petersen, M.*
 
 ### Ecological Interface Design
 
