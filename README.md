@@ -1,7 +1,7 @@
 # Affordance Theory Literature
 A repository of affordance theory literature
 
-## Affordance Books
+## Books
 
 * **The Ecological Approach to Visual Perception** (1979) *Gibson, J.*
 * **The Psychology/Design of Everyday Things** (1989/2003/2013) *Norman, D.*
@@ -10,7 +10,7 @@ A repository of affordance theory literature
 * **The Philosophy of Affordances** (2019) *Heras-Escribano, M.*
 * **How Artifacts Afford: The Power and Politics of Everyday Things** (2020) *Davis, J.*
 
-## Affordance Literature Reviews
+## Literature Reviews
 
 * **Affordances (Chapter 44: Encyclopedia of HCI)** (????) *Kaptelinin, V.*
 * **On Possibilities for Action: The Past, Present and Future of Affordance Research** (2012) *Barsingerhorn, A. et al.*
@@ -18,7 +18,7 @@ A repository of affordance theory literature
 * **'Affordance' - What Does This Mean?** (2017) *Harwood, S. & Hafeziech, N.*
 
 
-## Affordance Ontologies and Definitions
+## Ontologies and Definitions
 
 * **The Theory of Affordances** (1977) *Gibson, J.*
 * **Affordances and Prospective Control: An Outline of the Ontology** (1992) *Turvey, M.*
@@ -32,7 +32,7 @@ A repository of affordance theory literature
 * **When is an Affordance? Outlining Four Stances** (2017) *Lanamaki, A. et al.*
 * **Information is Relational; Affordances Are Not** (2018?) *Wilson, A.*
 
-## Socio-cultural Affordances
+## Socio-cultural
 * **Gibson's Affordances** (1994) *Greeno, J.*
 * **Socializing Affordances** (1995) *Costall, A.*
 * **An Activity Theory Approach to Affordance** (2002) *Baerentsen, K. & Trettvik, J.*
@@ -42,7 +42,7 @@ A repository of affordance theory literature
 * **Affordances and Landscapes: Overcoming the Nature–Culture Dichotomy through Niche Construction Theory** (2018) *Heras-Escribano, M. & Pinedo-Garcia, M.* 
 * **Social Affordances** (2020) *Carvalho, E.*
 
-## Formalizing Affordances
+## Formalizing
 * **Formalizing Affordance** (2002) *Steedman, M.*
 * **To Afford or Not to Afford: A New Formalizatino of Affordances Toward Affordance-Based Robot Control** (2007) *Sahin, E. et al.*
 * **Gibsonian Affordances for Roboticists** (2007) *Chemero, A. & Turvey, M.*
