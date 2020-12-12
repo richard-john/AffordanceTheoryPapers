@@ -12,8 +12,8 @@ A repository of affordance theory literature
 
 ## Literature Reviews
 
-* **Affordances (Chapter 44: Encyclopedia of HCI)** (????) *Kaptelinin, V.*
 * **On Possibilities for Action: The Past, Present and Future of Affordance Research** (2012) *Barsingerhorn, A. et al.*
+* **Affordances (Chapter 44: Encyclopedia of HCI)** (2014) *Kaptelinin, V.*
 * **The Use and Misuse of the Concept of Affordance** (2014) *Burlamaqui, L. & Dong, A.*
 * **'Affordance' - What Does This Mean?** (2017) *Harwood, S. & Hafeziech, N.*
 
