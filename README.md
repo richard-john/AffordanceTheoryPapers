@@ -65,15 +65,15 @@ A repository of affordance theory literature
 * **Affordance, Conventions, and Design** (1999) *Norman, D.*
 * **Affordances: Clarifying and Evolving a Concept** (2000) *McGrenere, J. & Ho, W.*
 * **Cognitive, Physical, Sensory, and Functional Affordance in Interaction Design** (2003) *Hartson, H.*
+* **A Comparison of Affordance Concepts and Product Semantics** (2003) *You, H. & Chen, K.*
 * **Applications of Affordance and Semantics in Product Design** (2006) *You, H. & Chen, K.*
 * **Affordance in Interaction** (2006) *Vyas, D. et al.*
+* **Dynamics of Affordances and Implications for Design** (2008) *Vyas, D. et al.*
 * **Beyond Affordances - Why Direct Perception is not Enough in Design Engineering** (2010) May, M.
 * **Affordances in HCI: Towards a Mediated Action Perspective** (2012) *Kaptelinin, V. & Nardi, B.*
+* **A Process Framework for Affordances in Design** (2012) *Kannengiesser, U. & Gero, J.*
 * **Designing Smart Objects to Support Affording Situtions: Exploiting Affordance Through an Understanding of Forms of Engagement** (2018) Baber, C.
 * **A Review of Affordances and Affordance-Based Design to Address Usability** (2019) *Masoudi, N. et al.*
-* **Dynamics of Affordances and Implications for Design** (????) *Vyas, D. et al.*
-* **A Process Framework for Affordances in Design** (????) *Kannengiesser, U. & Gero, J.*
-* **A Comparison of Affordance Concepts and Product Semantics** (????) *You, H. & Chen, K.*
 * **Affordances of Shape-Changing Interfaces: An Information Perspective on Transformability and Movement** (2020) *Petersen, M.*
 
 ### Ecological Interface Design
