@@ -3,6 +3,8 @@ A repository of affordance theory literature
 
 ## Books
 
+A selection of books which explore, build upon or draw on affordance theory.
+
 * **[The Ecological Approach to Visual Perception](https://blackwells.co.uk/bookshop/product/The-Ecological-Approach-to-Visual-Perception-by-James-J-Gibson-author/9781848725782)** (1979) *Gibson, J.*
 * **[The Psychology/Design of Everyday Things](https://blackwells.co.uk/bookshop/product/The-Design-of-Everyday-Things-by-Donald-A-Norman-author/9780262525671)** (1989/2003/2013) *Norman, D.*
 * **[Radical Embodied Cognition](https://blackwells.co.uk/bookshop/product/Radical-Embodied-Cognitive-Science-by-Anthony-Chemero/9780262516471)** (2009) *Chemero, A.*
@@ -12,10 +14,12 @@ A repository of affordance theory literature
 
 ## Literature Reviews
 
-* **On Possibilities for Action: The Past, Present and Future of Affordance Research** (2012) *Barsingerhorn, A. et al.*
-* **Affordances (Chapter 44: Encyclopedia of HCI)** (2014) *Kaptelinin, V.*
-* **The Use and Misuse of the Concept of Affordance** (2014) *Burlamaqui, L. & Dong, A.*
-* **'Affordance' - What Does This Mean?** (2017) *Harwood, S. & Hafeziech, N.*
+Papers reviewing the literature on affordance theory from various perspectives.
+
+* **[On Possibilities for Action: The Past, Present and Future of Affordance Research](http://bazhum.muzhp.pl/media/files/Avant_pismo_awangardy_filozoficzno_naukowej/Avant_pismo_awangardy_filozoficzno_naukowej-r2012-t_3_-n2/Avant_pismo_awangardy_filozoficzno_naukowej-r2012-t_3_-n2-s54-69/Avant_pismo_awangardy_filozoficzno_naukowej-r2012-t_3_-n2-s54-69.pdf)** (2012) *Barsingerhorn, A. et al.*
+* **[Affordances (Chapter 44: Encyclopedia of HCI)](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affordances)** (2014) *Kaptelinin, V.*
+* **[The Use and Misuse of the Concept of Affordance](http://aflux.in/files/dcc14_affordance.pdf)** (2014) *Burlamaqui, L. & Dong, A.*
+* **['Affordance' - What Does This Mean?](https://www.researchgate.net/profile/Stephen_Harwood2/publication/323773021_%27Affordance%27_-_what_does_this_mean/links/5aaa4a9f0f7e9b8826701a50/Affordance-what-does-this-mean.pdf)** (2017) *Harwood, S. & Hafeziech, N.*
 
 
 ## Ontologies and Definitions
