@@ -95,7 +95,7 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **Dynamic Touch as Common Ground for Enactivism and Ecological Psychology** (2020) *Travieso, D. et al.*
 
 ## Multimodal
-* **Visual and Haptic Perception of Affordances of Feelies** (2020) *Dowell, C. et al.*
+* **[Visual and Haptic Perception of Affordances of Feelies](https://journals.sagepub.com/doi/10.1177/0301006620946532)** (2020) *Dowell, C. et al.*
 
 ## Cognitivist Perspectives
 * **Distributed Cognition, Representation, and Affordance** (2006) *Zhang, J. & Patel, V.*
@@ -107,7 +107,7 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **Canonical Affordances: The Psychology of Everyday Things** (2013) *Costall, A. & Richards, A.*
 
 ## Normativity
-* **Are Affordances Normative?** (2015) *Heras-Escribano, M. & Pinedo, M.*
+* **[Are Affordances Normative?](https://link.springer.com/article/10.1007/s11097-015-9440-0#:~:text=According%20to%20Chemero%2C%20affordances%20are,their%20normative%20character%20from%20abilities.)** (2015) *Heras-Escribano, M. & Pinedo, M.*
 
 
 
