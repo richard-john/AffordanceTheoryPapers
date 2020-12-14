@@ -22,7 +22,7 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **['Affordance' - What Does This Mean?](https://www.researchgate.net/profile/Stephen_Harwood2/publication/323773021_%27Affordance%27_-_what_does_this_mean/links/5aaa4a9f0f7e9b8826701a50/Affordance-what-does-this-mean.pdf)** (2017) *Harwood, S. & Hafeziech, N.*
 
 
-## Ontologies and Definitions
+## Definitions and Ontological Debates
 
 * **The Theory of Affordances** (1977) *Gibson, J.*
 * **Affordances and Prospective Control: An Outline of the Ontology** (1992) *Turvey, M.*
