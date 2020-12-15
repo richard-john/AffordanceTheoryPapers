@@ -77,6 +77,7 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **Beyond Affordances - Why Direct Perception is not Enough in Design Engineering** (2010) May, M.
 * **Affordances in HCI: Towards a Mediated Action Perspective** (2012) *Kaptelinin, V. & Nardi, B.*
 * **A Process Framework for Affordances in Design** (2012) *Kannengiesser, U. & Gero, J.*
+* **[The Affordances of Broken Affordances](https://link.springer.com/chapter/10.1007/978-3-319-22698-9_13#Sec6)** (2015) Grünbaum, G. & Simonsen, J. *
 * **Designing Smart Objects to Support Affording Situtions: Exploiting Affordance Through an Understanding of Forms of Engagement** (2018) Baber, C.
 * **A Review of Affordances and Affordance-Based Design to Address Usability** (2019) *Masoudi, N. et al.*
 * **Affordances of Shape-Changing Interfaces: An Information Perspective on Transformability and Movement** (2020) *Petersen, M.*
