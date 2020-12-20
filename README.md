@@ -99,13 +99,13 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **[Visual and Haptic Perception of Affordances of Feelies](https://journals.sagepub.com/doi/10.1177/0301006620946532)** (2020) *Dowell, C. et al.*
 
 ## Cognitivist Perspectives
-* **Distributed Cognition, Representation, and Affordance** (2006) *Zhang, J. & Patel, V.*
-* **Conceptualizing Design Affordance From a Cognitive Perspective** (2009) *Still, D.*
-* **Cognitively Describing and Designing Affordances** (2012) *Still, D. & Dark, V.*
+* **[Distributed Cognition, Representation, and Affordance](https://www.researchgate.net/publication/233503192_Distributed_cognition_representation_and_affordance)** (2006) *Zhang, J. & Patel, V.*
+* **[Conceptualizing Design Affordance From a Cognitive Perspective](https://core.ac.uk/download/pdf/38924765.pdf)** (2009) *Still, D.*
+* **[Cognitively Describing and Designing Affordances](https://www.sciencedirect.com/science/article/abs/pii/S0142694X12000920)** (2012) *Still, D. & Dark, V.*
 
 ## Canonical Affordances
-* **Canonical Affordances in Context** (2012) *Costall, A.*
-* **Canonical Affordances: The Psychology of Everyday Things** (2013) *Costall, A. & Richards, A.*
+* **[Canonical Affordances in Context](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1057.9489&rep=rep1&type=pdf#:~:text=Canonical%20affordances%20are%20con%2D%20ventional,them%20in%20many%20other%20ways.)** (2012) *Costall, A.*
+* **[Canonical Affordances: The Psychology of Everyday Things](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199602001.001.0001/oxfordhb-9780199602001-e-047)** (2013) *Costall, A. & Richards, A.*
 
 ## Normativity
 * **[Are Affordances Normative?](https://link.springer.com/article/10.1007/s11097-015-9440-0#:~:text=According%20to%20Chemero%2C%20affordances%20are,their%20normative%20character%20from%20abilities.)** (2015) *Heras-Escribano, M. & Pinedo, M.*
