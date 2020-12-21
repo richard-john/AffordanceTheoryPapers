@@ -37,15 +37,15 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **Information is Relational; Affordances Are Not** (2018?) *Wilson, A.*
 
 ## Socio-cultural
-* **Gibson's Affordances** (1994) *Greeno, J.*
-* **Socializing Affordances** (1995) *Costall, A.*
-* **An Activity Theory Approach to Affordance** (2002) *Baerentsen, K. & Trettvik, J.*
-* **Scaffolds for social meaning** (2007) *Schmidt, R.*
-* **What Can be Done with an Egg? Creativity, Material Objects, and the Theory of Affordances** (2012) *Glaveanu, V.*
-* **Organizational Affordances: A Structurational Theory Approach to Affordances** (2016) *Vyas, D. et al.*
+* **[Gibson's Affordances](http://ftp.idiap.ch/pub/courses/EE-700/material/31-10-2012/gibsonAffordances.pdf)** (1994) *Greeno, J.*
+* **[Socializing Affordances](https://journals.sagepub.com/doi/abs/10.1177/0959354395054001)** (1995) *Costall, A.*
+* **[An Activity Theory Approach to Affordance](https://dl.acm.org/doi/pdf/10.1145/572020.572028?casa_token=_6jvEM3ZiMkAAAAA:RWY7yD6OPzpidBo3VjRe8GkHIy8W1uHlUyQOFV_ZSCYF-E1hByGww-XmlgTeYae4ie-HqwhzFMqRwA)** (2002) *Baerentsen, K. & Trettvik, J.*
+* **[Scaffolds for social meaning](https://www.researchgate.net/profile/Richard_Schmidt5/publication/228621885_Scaffolds_for_social_meaning/links/0fcfd50bc9f0743ad0000000/Scaffolds-for-social-meaning.pdf)** (2007) *Schmidt, R.*
+* **[What Can be Done with an Egg? Creativity, Material Objects, and the Theory of Affordances](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jocb.13?casa_token=w3uF-98jR9cAAAAA:xke7DVVY-ZoKtGRH-oVTK9HRG8052537TFkmXxelHDIwJEQlm7TWpBVT_70xoVsqaFh7rmXG9V39wEg)** (2012) *Glaveanu, V.*
+* **[Organizational Affordances: A Structurational Theory Approach to Affordances](https://watermark.silverchair.com/iww008.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAArkwggK1BgkqhkiG9w0BBwagggKmMIICogIBADCCApsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMkAQiYu9hPd5G-KKtAgEQgIICbA6YzmSEqPs-9CV5MMDMdi58Ls5DzKl62ypLgyS0O5KCZWqd0G9IKjcgDUPTafwFgWu73OOlXUGGBd2TZZpiWW26-R1nYiZpxWwn-ABFvKRx5rNwBHB0MuPdLS3xmcAybxtbejh1YNeELtlpUCmyyZdRyoj426jxVM3yNjLZwIPjBBjp2CFZR8mI_S7wtkoO8Pp9DcgLnFTUsTrvqXF62JXRigG3tM9klLPN3Dy6BDJitxJEUatkSd4dm2dPw_G6GR2Ua6GCO_G2x_ykf43v0R5NoPB0kBaoiGsUhW5QHgune8Ch7diCLg2cxiJcvxoyA2lAbuHN-wi2ygpkfU_Y_poYvRJrCie8G2d1D258LPaJKeYp2d_PkHINFPkwqv_zhMdBsOtknjJnRHrDobVv0yly6gRjCO0vaF6GIe0b5J6cP2w55LR8ykVGwBWYNbKrZ5YdBxQnrBzymxtNkBXSmqa7TYXTkEH9X0qK4nfC7IMsYLqx-An8ZPWZl4xVe0sMIoSyZ7ZZ-bh-rrje0977A2RORy-1paxOORkq7_gc4C0kFCgdkLtbFMcUwld9kFWD2rkHvJk_0OnnjCEUYWC_c-La0iVCaO-1EjLxYO-JvlNtRYJzEOAcwyPptcuAX7HP5QhFBQYKWZvBJBuaMbOPzc68iWzWfn-dFbg95hJ3mscfvBX34tZMDTAgOZXQ2nPypHykn701stfGo6HKOaplsDmKyTmHvgIDUg9fGww5aDNGs-Uxlglt9TxodQORydeplnI8Nph-wQ2wM5UfUB4ASa4zvWOpRYKmglirNE2FAjXVM2XnugqmqIr9cT_4)** (2016) *Vyas, D. et al.*
 * **Cultural Affordances: Scaffolding Local Worlds Through Shared Intentionality and Regimes of Attention** (2016) *Ramstead, M.*
 * **Affordances and Landscapes: Overcoming the Nature–Culture Dichotomy through Niche Construction Theory** (2018) *Heras-Escribano, M. & Pinedo-Garcia, M.* 
-* **Social Affordances** (2020) *Carvalho, E.*
+* **[Social Affordances](https://philarchive.org/archive/CARSA-13)** (2020) *Carvalho, E.*
 
 ## Formalizing
 * **Formalizing Affordance** (2002) *Steedman, M.*
