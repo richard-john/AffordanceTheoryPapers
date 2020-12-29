@@ -25,6 +25,8 @@ Papers reviewing the literature on affordance theory from various perspectives.
 
 ## Definitions and Ontological Debates
 
+The ontological quagmire that is affordances.
+
 * **The Theory of Affordances** (1977) *Gibson, J.*
 * **Affordances and Prospective Control: An Outline of the Ontology** (1992) *Turvey, M.*
 * **An Outline of a Theory of Affordances** (2003) *Chemero, A.* 
@@ -39,6 +41,9 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **[Dispensing with the theory (and philosophy) of affordances](https://journals.sagepub.com/doi/pdf/10.1177/0959354320980534)** (2020) *Mota, S.*
 
 ## Socio-cultural
+
+The social and cultural aspects of affordances. What's missing, what needs to be added and how.
+
 * **[Gibson's Affordances](http://ftp.idiap.ch/pub/courses/EE-700/material/31-10-2012/gibsonAffordances.pdf)** (1994) *Greeno, J.*
 * **[Socializing Affordances](https://journals.sagepub.com/doi/abs/10.1177/0959354395054001)** (1995) *Costall, A.*
 * **[An Activity Theory Approach to Affordance](https://dl.acm.org/doi/pdf/10.1145/572020.572028?casa_token=_6jvEM3ZiMkAAAAA:RWY7yD6OPzpidBo3VjRe8GkHIy8W1uHlUyQOFV_ZSCYF-E1hByGww-XmlgTeYae4ie-HqwhzFMqRwA)** (2002) *Baerentsen, K. & Trettvik, J.*
@@ -50,13 +55,19 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **[Social Affordances](https://philarchive.org/archive/CARSA-13)** (2020) *Carvalho, E.*
 
 ## Formalizing
+
+Describing an affordance through formal and mathematical methods.
+
 * **Formalizing Affordance** (2002) *Steedman, M.*
 * **To Afford or Not to Afford: A New Formalizatino of Affordances Toward Affordance-Based Robot Control** (2007) *Sahin, E. et al.*
 * **Gibsonian Affordances for Roboticists** (2007) *Chemero, A. & Turvey, M.*
 * **Affordances in Situation Theory** (2013) *Lenarcic, A.*
 * **A Formal Representation of Affordances as Reciprocal Dispositions** (2018) *Toyoshima, F. & Barton, A.*
 
-## Related Ecological / Enactive Psychology Papers
+## Key Ecological / Enactive Psychology Papers
+
+A selection of key papers spanning the ecological and enactive debates.
+
 * **Direct Perception** (1981) *Michaels, C. & Carello, C.*
 * **Ecological Laws of Perceiving and Action: In Reply to Fodor and Pvlyshyn** (1981) *Shaw, R. & Mace, W.*
 * **Information, Perception and Action** (2000) *Michaels, C.*
@@ -69,6 +80,9 @@ Papers reviewing the literature on affordance theory from various perspectives.
 
 
 ## Interaction Design and HCI
+
+Coupling and embedding affordances in designed artifacts, computers and other things.
+
 * **Technology Affordances** (1991) *Gaver, W.*
 * **Affordance, Conventions, and Design** (1999) *Norman, D.*
 * **Affordances: Clarifying and Evolving a Concept** (2000) *McGrenere, J. & Ho, W.*
@@ -87,6 +101,8 @@ Papers reviewing the literature on affordance theory from various perspectives.
 
 ### Ecological Interface Design
 
+Designing interfaces through an ecological protocol.
+
 * **A Theoretical Framework for Ecological Interface Design** (1988) *Vicente, K. & Rasmussen, J.*
 * **Coping with Human Errors Though System Design: Implications for Ecological Interface Design** (1988) *Rasmussen, J. & Vicente, K.*
 * **Mediating "Direct Perception" in Complex Work Domains** (1990) *Vicente, K. & Rasmussen, J.*
@@ -94,21 +110,36 @@ Papers reviewing the literature on affordance theory from various perspectives.
 
 
 ## Experimental
+
+Key experiments providing empirical evidence for affordances.
+
 * **Perceiving Affordances: Visual Guidance of Stair Climbing** (1984) *Warren, W.*
 * **Visual Guidance of Walking Through Aperatures: Body-Scaled Information for Affordances** (1987) *Warren, W. & Whang, S.*
 * **Dynamic Touch as Common Ground for Enactivism and Ecological Psychology** (2020) *Travieso, D. et al.*
 
 ## Cognitivist Perspectives
+
+Cognitivists can have perspectives too.
+
 * **[Distributed Cognition, Representation, and Affordance](https://www.researchgate.net/publication/233503192_Distributed_cognition_representation_and_affordance)** (2006) *Zhang, J. & Patel, V.*
 * **[Conceptualizing Design Affordance From a Cognitive Perspective](https://core.ac.uk/download/pdf/38924765.pdf)** (2009) *Still, D.*
 * **[Cognitively Describing and Designing Affordances](https://www.sciencedirect.com/science/article/abs/pii/S0142694X12000920)** (2012) *Still, D. & Dark, V.*
 
 ## Canonical Affordances
+
+The things that things are for.
+
 * **[Canonical Affordances in Context](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1057.9489&rep=rep1&type=pdf#:~:text=Canonical%20affordances%20are%20con%2D%20ventional,them%20in%20many%20other%20ways.)** (2012) *Costall, A.*
 * **[Canonical Affordances: The Psychology of Everyday Things](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199602001.001.0001/oxfordhb-9780199602001-e-047)** (2013) *Costall, A. & Richards, A.*
 
 ## Normativity
+
+Using affordances rightly (or wrongly)
+
 * **[Are Affordances Normative?](https://link.springer.com/article/10.1007/s11097-015-9440-0#:~:text=According%20to%20Chemero%2C%20affordances%20are,their%20normative%20character%20from%20abilities.)** (2015) *Heras-Escribano, M. & Pinedo, M.*
+
+
+It's not just visual, stupid.
 
 ## Multimodal
 * **[Visual and Haptic Perception of Affordances of Feelies](https://journals.sagepub.com/doi/10.1177/0301006620946532)** (2020) *Dowell, C. et al.*
