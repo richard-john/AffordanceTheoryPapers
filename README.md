@@ -65,8 +65,6 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **General Ecological Information Supports Engagement with Affordances for 'Higher' Cognition** (2019) *Bruineberg, J. et al.*
 * **Pragmatism, Enactivism, and Ecological Psychology: Towards a Unified Approach to Post-cognitivism** (2019) *Heras-Escribano, M.*
 * **[Ecological mechanisms in cognitive science](https://cognitioninaction.files.wordpress.com/2019/10/golonka-wilson-2019-ecological-mechanisms-in-cognitive-science.pdf)** (2019) Golonka, S. et al.
-
-
 * **An Enactive-Ecological Approach to Information and Uncertainty** (2020) *Carvalho, E. & Rolla, G.*
 
 
