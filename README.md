@@ -134,14 +134,15 @@ The things that things are for.
 
 ## Normativity
 
-Using affordances rightly (or wrongly)
+Using affordances rightly (or wrongly).
 
 * **[Are Affordances Normative?](https://link.springer.com/article/10.1007/s11097-015-9440-0#:~:text=According%20to%20Chemero%2C%20affordances%20are,their%20normative%20character%20from%20abilities.)** (2015) *Heras-Escribano, M. & Pinedo, M.*
 
 
+## Multimodal
+
 It's not just visual, stupid.
 
-## Multimodal
 * **[Visual and Haptic Perception of Affordances of Feelies](https://journals.sagepub.com/doi/10.1177/0301006620946532)** (2020) *Dowell, C. et al.*
 
 
