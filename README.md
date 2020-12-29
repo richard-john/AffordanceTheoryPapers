@@ -17,6 +17,7 @@ A selection of books which explore, build upon or draw on affordance theory.
 Papers reviewing the literature on affordance theory from various perspectives.
 
 * **[On Possibilities for Action: The Past, Present and Future of Affordance Research](http://bazhum.muzhp.pl/media/files/Avant_pismo_awangardy_filozoficzno_naukowej/Avant_pismo_awangardy_filozoficzno_naukowej-r2012-t_3_-n2/Avant_pismo_awangardy_filozoficzno_naukowej-r2012-t_3_-n2-s54-69/Avant_pismo_awangardy_filozoficzno_naukowej-r2012-t_3_-n2-s54-69.pdf)** (2012) *Barsingerhorn, A. et al.*
+* **[Understanding Affordances: history and contemporary development of Gibson's central concept](https://pdfs.semanticscholar.org/b12e/8f7a6cd9078e9c3433e9bbc04dba6667014b.pdf)** (2012) *Dotov, D. et al.*
 * **[Affordances (Chapter 44: Encyclopedia of HCI)](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affordances)** (2014) *Kaptelinin, V.*
 * **[The Use and Misuse of the Concept of Affordance](http://aflux.in/files/dcc14_affordance.pdf)** (2014) *Burlamaqui, L. & Dong, A.*
 * **['Affordance' - What Does This Mean?](https://www.researchgate.net/profile/Stephen_Harwood2/publication/323773021_%27Affordance%27_-_what_does_this_mean/links/5aaa4a9f0f7e9b8826701a50/Affordance-what-does-this-mean.pdf)** (2017) *Harwood, S. & Hafeziech, N.*
@@ -35,6 +36,7 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **The Contested Ontology of Affordances: Implications for Researching Technological Affordances for Collaborative Knowledge Production** (2014) *Parchoma, G.*
 * **When is an Affordance? Outlining Four Stances** (2017) *Lanamaki, A. et al.*
 * **Information is Relational; Affordances Are Not** (2018?) *Wilson, A.*
+* **[Dispensing with the theory (and philosophy) of affordances](https://journals.sagepub.com/doi/pdf/10.1177/0959354320980534)** (2020) *Mota, S.*
 
 ## Socio-cultural
 * **[Gibson's Affordances](http://ftp.idiap.ch/pub/courses/EE-700/material/31-10-2012/gibsonAffordances.pdf)** (1994) *Greeno, J.*
@@ -62,6 +64,9 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **Radical Embodiment in Two Direction** (2018) *Baggs, E. & Chemero, A.*
 * **General Ecological Information Supports Engagement with Affordances for 'Higher' Cognition** (2019) *Bruineberg, J. et al.*
 * **Pragmatism, Enactivism, and Ecological Psychology: Towards a Unified Approach to Post-cognitivism** (2019) *Heras-Escribano, M.*
+* **[Ecological mechanisms in cognitive science](https://cognitioninaction.files.wordpress.com/2019/10/golonka-wilson-2019-ecological-mechanisms-in-cognitive-science.pdf)** (2019) Golonka, S. et al.
+
+
 * **An Enactive-Ecological Approach to Information and Uncertainty** (2020) *Carvalho, E. & Rolla, G.*
 
 
@@ -95,9 +100,6 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **Visual Guidance of Walking Through Aperatures: Body-Scaled Information for Affordances** (1987) *Warren, W. & Whang, S.*
 * **Dynamic Touch as Common Ground for Enactivism and Ecological Psychology** (2020) *Travieso, D. et al.*
 
-## Multimodal
-* **[Visual and Haptic Perception of Affordances of Feelies](https://journals.sagepub.com/doi/10.1177/0301006620946532)** (2020) *Dowell, C. et al.*
-
 ## Cognitivist Perspectives
 * **[Distributed Cognition, Representation, and Affordance](https://www.researchgate.net/publication/233503192_Distributed_cognition_representation_and_affordance)** (2006) *Zhang, J. & Patel, V.*
 * **[Conceptualizing Design Affordance From a Cognitive Perspective](https://core.ac.uk/download/pdf/38924765.pdf)** (2009) *Still, D.*
@@ -109,6 +111,9 @@ Papers reviewing the literature on affordance theory from various perspectives.
 
 ## Normativity
 * **[Are Affordances Normative?](https://link.springer.com/article/10.1007/s11097-015-9440-0#:~:text=According%20to%20Chemero%2C%20affordances%20are,their%20normative%20character%20from%20abilities.)** (2015) *Heras-Escribano, M. & Pinedo, M.*
+
+## Multimodal
+* **[Visual and Haptic Perception of Affordances of Feelies](https://journals.sagepub.com/doi/10.1177/0301006620946532)** (2020) *Dowell, C. et al.*
 
 
 
