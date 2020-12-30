@@ -145,6 +145,14 @@ It's not just visual, stupid.
 
 * **[Visual and Haptic Perception of Affordances of Feelies](https://journals.sagepub.com/doi/10.1177/0301006620946532)** (2020) *Dowell, C. et al.*
 
+## Affordance competition hypothesis
+
+* **[Beyond the computer metaphor: Behaviour as interaction](http://www.cisek.org/pavel/Pubs/Cis1999.pdf)** (1999) *Cisek, P.*
+* **[Integrated neural processes for defining potential actions and deciding between them: A computational model](http://www.cisek.org/pavel/Pubs/Cis1999.pdf)** (2006) *Cisek, P.*
+* **[Cortical mechanisms of action selection: The affordance competition hypothesis](http://www.cisek.org/pavel/Pubs/Cis2007.pdf)** (2007) *Cisek, P.*
+* **[Neural mechanisms for interacting with a world full of action choices](http://www.cisek.org/pavel/Pubs/CisekKalaska2010.pdf)** (2010) *Cisek, P. et al.*
+* **[Navigating the affordance landscape: Feedback control as a process model of behavior and cognition](http://www.cisek.org/pavel/Pubs/PezzuloCisek2016.pdf)** (2016) *Pezzulo, G. et al.*
+
 
 
 
