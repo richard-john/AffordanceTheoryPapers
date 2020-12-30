@@ -145,7 +145,10 @@ It's not just visual, stupid.
 
 * **[Visual and Haptic Perception of Affordances of Feelies](https://journals.sagepub.com/doi/10.1177/0301006620946532)** (2020) *Dowell, C. et al.*
 
+
 ## Affordance competition hypothesis
+
+Cisek et al on the affordance competition hypothesis as an alternative approach to ecopsych.
 
 * **[Beyond the computer metaphor: Behaviour as interaction](http://www.cisek.org/pavel/Pubs/Cis1999.pdf)** (1999) *Cisek, P.*
 * **[Integrated neural processes for defining potential actions and deciding between them: A computational model](http://www.cisek.org/pavel/Pubs/Cis1999.pdf)** (2006) *Cisek, P.*
