@@ -29,7 +29,7 @@ The ontological quagmire that is affordances.
 
 * **[The Theory of Affordances](https://cs.brown.edu/courses/cs137/readings/Gibson-AFF.pdf)** (1977) *Gibson, J.*
 * **[Affordances and Prospective Control: An Outline of the Ontology](https://www.tandfonline.com/doi/abs/10.1207/s15326969eco0403_3)** (1992) *Turvey, M.*
-* **[Affordances Explained](https://www.journals.uchicago.edu/doi/pdf/10.1086/377380?casa_token=4-dCoVuBSuIAAAAA:ttS7UgYXl2-C9N8OxdbmQVmgSiIQDsXRLBugq-bVOv08raI1PKQXW2Yp238BL0qOp7VflDXz32Pv)** (2003) * Scarantino, A.* 
+* **[Affordances Explained](https://www.journals.uchicago.edu/doi/pdf/10.1086/377380?casa_token=4-dCoVuBSuIAAAAA:ttS7UgYXl2-C9N8OxdbmQVmgSiIQDsXRLBugq-bVOv08raI1PKQXW2Yp238BL0qOp7VflDXz32Pv)** (2003) *Scarantino, A.* 
 * **[An Outline of a Theory of Affordances](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.475.4827&rep=rep1&type=pdf)** (2003) *Chemero, A.* 
 * **[Affordances as Properties of the Animal–Environment System](https://www.researchgate.net/publication/247502058_Affordances_as_Properties_of_the_Animal-Environment_System)** (2003) *Stoffregen, T.*
 * **[On Stoffregen’s Definition of Affordances](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.9318&rep=rep1&type=pdf)** (2004) *Kirlik, A.*
