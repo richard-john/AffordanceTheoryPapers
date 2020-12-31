@@ -64,7 +64,7 @@ Describing an affordance through formal and mathematical methods.
 * **[Affordances in Situation Theory](https://www.researchgate.net/publication/271940564_Affordances_in_Situation_Theory)** (2013) *Lenarcic, A.*
 * **[A Formal Representation of Affordances as Reciprocal Dispositions](http://ceur-ws.org/Vol-2347/paper9.pdf)** (2018) *Toyoshima, F. & Barton, A.*
 
-## Key Ecological / Enactive Psychology Papers
+## Other key Ecological / Enactive Psychology Papers
 
 A selection of key papers spanning the ecological and enactive debates.
 
