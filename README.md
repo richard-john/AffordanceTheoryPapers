@@ -59,10 +59,10 @@ The social and cultural aspects of affordances. What's missing, what needs to be
 Describing an affordance through formal and mathematical methods.
 
 * **[Formalizing Affordance](https://escholarship.org/content/qt4v9494pc/qt4v9494pc_noSplash_c4e3fb7a38d69e66be3c44c910789c37.pdf)** (2002) *Steedman, M.*
-* **To Afford or Not to Afford: A New Formalizatino of Affordances Toward Affordance-Based Robot Control** (2007) *Sahin, E. et al.*
-* **Gibsonian Affordances for Roboticists** (2007) *Chemero, A. & Turvey, M.*
-* **Affordances in Situation Theory** (2013) *Lenarcic, A.*
-* **A Formal Representation of Affordances as Reciprocal Dispositions** (2018) *Toyoshima, F. & Barton, A.*
+* **[To Afford or Not to Afford: A New Formalization of Affordances Toward Affordance-Based Robot Control](https://www.researchgate.net/publication/247757419_To_Afford_or_Not_to_Afford_A_New_Formalization_of_Affordances_Toward_Affordance-Based_Robot_Control)** (2007) *Sahin, E. et al.*
+* **[Gibsonian Affordances for Roboticists](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.210.579&rep=rep1&type=pdf)** (2007) *Chemero, A. & Turvey, M.*
+* **[Affordances in Situation Theory](https://www.researchgate.net/publication/271940564_Affordances_in_Situation_Theory)** (2013) *Lenarcic, A.*
+* **[A Formal Representation of Affordances as Reciprocal Dispositions](http://ceur-ws.org/Vol-2347/paper9.pdf)** (2018) *Toyoshima, F. & Barton, A.*
 
 ## Key Ecological / Enactive Psychology Papers
 
