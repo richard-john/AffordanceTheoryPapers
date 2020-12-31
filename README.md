@@ -103,10 +103,10 @@ Coupling and embedding affordances in designed artifacts, computers and other th
 
 Designing interfaces through an ecological protocol.
 
-* **A Theoretical Framework for Ecological Interface Design** (1988) *Vicente, K. & Rasmussen, J.*
-* **Coping with Human Errors Though System Design: Implications for Ecological Interface Design** (1988) *Rasmussen, J. & Vicente, K.*
-* **Mediating "Direct Perception" in Complex Work Domains** (1990) *Vicente, K. & Rasmussen, J.*
-* **Ecological Interface Design: Theoretical Foundations** (1992) *Vicente, K. & Rasmussen, J.*
+* **[A Theoretical Framework for Ecological Interface Design](https://core.ac.uk/reader/13790820)** (1988) *Vicente, K. & Rasmussen, J.*
+* **[Coping with Human Errors Though System Design: Implications for Ecological Interface Design](https://cel.mie.utoronto.ca/wp-content/uploads/rasmussen_vicente_human_errors_EID.pdf)** (1988) *Rasmussen, J. & Vicente, K.*
+* **[Mediating "Direct Perception" in Complex Work Domains](https://cel.mie.utoronto.ca/wp-content/uploads/vicente_rasmussen_mediating_direct_perception.pdf)** (1990) *Vicente, K. & Rasmussen, J.*
+* **[Ecological Interface Design: Theoretical Foundations](http://ritter.ist.psu.edu/misc/dirk-files/Papers/HCI/Ecologicalinterfacedesign.pdf)** (1992) *Vicente, K. & Rasmussen, J.*
 
 
 ## Experimental
