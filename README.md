@@ -27,11 +27,11 @@ Papers reviewing the literature on affordance theory from various perspectives.
 
 The ontological quagmire that is affordances.
 
-* **The Theory of Affordances** (1977) *Gibson, J.*
-* **Affordances and Prospective Control: An Outline of the Ontology** (1992) *Turvey, M.*
-* **An Outline of a Theory of Affordances** (2003) *Chemero, A.* 
-* **Affordances as Properties of the Animal–Environment System** (2003) *Stoffregen, T.*
-* **On Stoffregen’s Definition of Affordances** (2004) *Kirlik, A.*
+* **[The Theory of Affordances](https://cs.brown.edu/courses/cs137/readings/Gibson-AFF.pdf)** (1977) *Gibson, J.*
+* **[Affordances and Prospective Control: An Outline of the Ontology](https://www.tandfonline.com/doi/abs/10.1207/s15326969eco0403_3)** (1992) *Turvey, M.*
+* **[An Outline of a Theory of Affordances](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.475.4827&rep=rep1&type=pdf)** (2003) *Chemero, A.* 
+* **[Affordances as Properties of the Animal–Environment System](https://www.researchgate.net/publication/247502058_Affordances_as_Properties_of_the_Animal-Environment_System)** (2003) *Stoffregen, T.*
+* **[On Stoffregen’s Definition of Affordances](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.9318&rep=rep1&type=pdf)** (2004) *Kirlik, A.*
 * **Affordances: Four Points of Debate** (2003) *Michaels, C.*
 * **The Problem with Affordance** (2005) *Martin, O.*
 * **A Rich Landscape of Affordances** (2014) *Rietveld, E.*
