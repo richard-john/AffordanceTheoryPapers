@@ -68,15 +68,15 @@ Describing an affordance through formal and mathematical methods.
 
 A selection of key papers spanning the ecological and enactive debates.
 
-* **Direct Perception** (1981) *Michaels, C. & Carello, C.*
-* **Ecological Laws of Perceiving and Action: In Reply to Fodor and Pvlyshyn** (1981) *Shaw, R. & Mace, W.*
-* **Information, Perception and Action** (2000) *Michaels, C.*
-* **What we Perceive when we Perceive Affordances: Commentary on Michaels (2000) "Information, Perception, and Action"** (2001) *Chemero, A.*
-* **Radical Embodiment in Two Direction** (2018) *Baggs, E. & Chemero, A.*
-* **General Ecological Information Supports Engagement with Affordances for 'Higher' Cognition** (2019) *Bruineberg, J. et al.*
-* **Pragmatism, Enactivism, and Ecological Psychology: Towards a Unified Approach to Post-cognitivism** (2019) *Heras-Escribano, M.*
+* **[Direct Perception](https://www.researchgate.net/profile/Claire_Michaels/publication/267258755_Direct_Perception/links/554121350cf2322227315337/Direct-Perception.pdf)** (1981) *Michaels, C. & Carello, C.*
+* **[Ecological Laws of Perceiving and Action: In Reply to Fodor and Pvlyshyn](https://www.researchgate.net/profile/Robert_Shaw6/publication/233683279_Ecological_foundations_of_cognition_I_Symmetry_and_specificity_of_animal-environment_systems/links/56a91b3308aeaeb4cef92cbc.pdf)** (1981) *Shaw, R. & Mace, W.*
+* **[Information, Perception, and Action: What Should Ecological Psychologists Learn From Milner and Goodale](https://www.researchgate.net/publication/247502077_Information_Perception_and_Action_What_Should_Ecological_Psychologists_Learn_From_Milner_and_Goodale_1995)** (2000) *Michaels, C.*
+* **[What we Perceive when we Perceive Affordances: Commentary on Michaels (2000) "Information, Perception, and Action"](https://www.tandfonline.com/doi/pdf/10.1207/S15326969ECO1302_3?casa_token=ItFr25GdRFoAAAAA:xqrKHztjAF350SlECb3LyO5iUYjicbDdO37OqqDWzXDxNYruOpAis5AVAfIE_bWYt8KDzKlBz7CSmQ)** (2001) *Chemero, A.*
+* **[Radical Embodiment in Two Direction](https://link.springer.com/article/10.1007/s11229-018-02020-9)** (2018) *Baggs, E. & Chemero, A.*
+* **[General Ecological Information Supports Engagement with Affordances for 'Higher' Cognition](https://link.springer.com/article/10.1007/s11229-018-1716-9)** (2019) *Bruineberg, J. et al.*
+* **[Pragmatism, Enactivism, and Ecological Psychology: Towards a Unified Approach to Post-cognitivism](https://link.springer.com/article/10.1007/s11229-019-02111-1)** (2019) *Heras-Escribano, M.*
 * **[Ecological mechanisms in cognitive science](https://cognitioninaction.files.wordpress.com/2019/10/golonka-wilson-2019-ecological-mechanisms-in-cognitive-science.pdf)** (2019) Golonka, S. et al.
-* **An Enactive-Ecological Approach to Information and Uncertainty** (2020) *Carvalho, E. & Rolla, G.*
+* **[An Enactive-Ecological Approach to Information and Uncertainty](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00588/full)** (2020) *Carvalho, E. & Rolla, G.*
 
 
 ## Interaction Design and HCI
