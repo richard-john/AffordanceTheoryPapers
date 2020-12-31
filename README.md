@@ -83,21 +83,21 @@ A selection of key papers spanning the ecological and enactive debates.
 
 Coupling and embedding affordances in designed artifacts, computers and other things.
 
-* **Technology Affordances** (1991) *Gaver, W.*
-* **Affordance, Conventions, and Design** (1999) *Norman, D.*
-* **Affordances: Clarifying and Evolving a Concept** (2000) *McGrenere, J. & Ho, W.*
-* **Cognitive, Physical, Sensory, and Functional Affordance in Interaction Design** (2003) *Hartson, H.*
-* **A Comparison of Affordance Concepts and Product Semantics** (2003) *You, H. & Chen, K.*
-* **Applications of Affordance and Semantics in Product Design** (2006) *You, H. & Chen, K.*
-* **Affordance in Interaction** (2006) *Vyas, D. et al.*
-* **Dynamics of Affordances and Implications for Design** (2008) *Vyas, D. et al.*
-* **Beyond Affordances - Why Direct Perception is not Enough in Design Engineering** (2010) May, M.
-* **Affordances in HCI: Towards a Mediated Action Perspective** (2012) *Kaptelinin, V. & Nardi, B.*
-* **A Process Framework for Affordances in Design** (2012) *Kannengiesser, U. & Gero, J.*
+* **[Technology Affordances](https://dl.acm.org/doi/pdf/10.1145/108844.108856?casa_token=cYay8ORpmwgAAAAA:mEsV6_RDZWqxEmBi_xbP42yXRxSzIGritW5O8GWxeRNA0vCArfoQDx3a9QgSpoowyFhQuGXgj6zsJw)** (1991) *Gaver, W.*
+* **[Affordance, Conventions, and Design](https://dl.acm.org/doi/pdf/10.1145/301153.301168?casa_token=7DyAXt42czUAAAAA:IaLK7wOWIQ-bA9e5fsoRozLsuP9j6l2pyzaR7gyuF7nxFTBy4v0ee8YxtNpWhXEf5Sk00dOEEuolPg)** (1999) *Norman, D.*
+* **[Affordances: Clarifying and Evolving a Concept](https://www.researchgate.net/publication/221474920_Affordances_Clarifying_and_Evolving_a_Concep)** (2000) *McGrenere, J. & Ho, W.*
+* **[Cognitive, Physical, Sensory, and Functional Affordance in Interaction Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.9149&rep=rep1&type=pdf)** (2003) *Hartson, H.*
+* **[A Comparison of Affordance Concepts and Product Semantics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.109.677&rep=rep1&type=pdf)** (2003) *You, H. & Chen, K.*
+* **[Applications of Affordance and Semantics in Product Design](https://www.sciencedirect.com/science/article/abs/pii/S0142694X06000494?via%3Dihub)** (2006) *You, H. & Chen, K.*
+* **[Affordance in Interaction](https://eprints.qut.edu.au/69903/1/AffordanceInInteraction-ECCE13-CameraReady.pdf)** (2006) *Vyas, D. et al.*
+* **[Dynamics of Affordances and Implications for Design](https://eprints.qut.edu.au/69718/1/Affordance_VyasChisalitaDix.pdf0.pdf)** (2008) *Vyas, D. et al.*
+* **[Beyond Affordances - Why Direct Perception is not Enough in Design Engineering](https://www.researchgate.net/publication/291334138_Beyond_Affordances_-_Why_direct_perception_is_not_enough_in_design_engineering)** (2010) May, M.
+* **[Affordances in HCI: Towards a Mediated Action Perspective](http://darrouzet-nardi.net/bonnie/Kaptelinin_Nardi_CHI12_Affordances.pdf)** (2012) *Kaptelinin, V. & Nardi, B.*
+* **[A Process Framework for Affordances in Design](https://core.ac.uk/download/pdf/194235588.pdf)** (2012) *Kannengiesser, U. & Gero, J.*
 * **[The Affordances of Broken Affordances](https://link.springer.com/chapter/10.1007/978-3-319-22698-9_13#Sec6)** (2015) Grünbaum, G. & Simonsen, J.
-* **Designing Smart Objects to Support Affording Situtions: Exploiting Affordance Through an Understanding of Forms of Engagement** (2018) Baber, C.
-* **A Review of Affordances and Affordance-Based Design to Address Usability** (2019) *Masoudi, N. et al.*
-* **Affordances of Shape-Changing Interfaces: An Information Perspective on Transformability and Movement** (2020) *Petersen, M.*
+* **[Designing Smart Objects to Support Affording Situtions: Exploiting Affordance Through an Understanding of Forms of Engagement](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00292/full)** (2018) Baber, C.
+* **[A Review of Affordances and Affordance-Based Design to Address Usability](https://www.researchgate.net/publication/334715286_A_Review_of_Affordances_and_Affordance-Based_Design_to_Address_Usability)** (2019) *Masoudi, N. et al.*
+* **[Affordances of Shape-Changing Interfaces: An Information Perspective on Transformability and Movement](https://pure.au.dk/portal/files/194212788/DIS2020_AffordancesOfShapeChangingInterfaces_InformationPerspective_on_Transformability_and_Movement_Final.pdf)** (2020) *Petersen, M.*
 
 ### Ecological Interface Design
 
