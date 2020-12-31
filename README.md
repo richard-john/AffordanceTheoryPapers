@@ -118,7 +118,7 @@ Key experiments providing empirical evidence for affordances.
 * **[Visual Guidance of Walking Through Aperatures: Body-Scaled Information for Affordances](https://www.researchgate.net/publication/20196847_Visual_Guidance_of_Walking_Through_Apertures_Body-Scaled_Information_for_Affordances)** (1987) *Warren, W. & Whang, S.*
 * **[Dynamic Touch as Common Ground for Enactivism and Ecological Psychology](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01257/full)** (2020) *Travieso, D. et al.*
 
-## Cognitivist Perspective[s
+## Cognitivist Perspectives
 
 Cognitivists can have perspectives too.
 
