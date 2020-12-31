@@ -32,12 +32,12 @@ The ontological quagmire that is affordances.
 * **[An Outline of a Theory of Affordances](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.475.4827&rep=rep1&type=pdf)** (2003) *Chemero, A.* 
 * **[Affordances as Properties of the Animal–Environment System](https://www.researchgate.net/publication/247502058_Affordances_as_Properties_of_the_Animal-Environment_System)** (2003) *Stoffregen, T.*
 * **[On Stoffregen’s Definition of Affordances](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.9318&rep=rep1&type=pdf)** (2004) *Kirlik, A.*
-* **Affordances: Four Points of Debate** (2003) *Michaels, C.*
-* **The Problem with Affordance** (2005) *Martin, O.*
-* **A Rich Landscape of Affordances** (2014) *Rietveld, E.*
-* **The Contested Ontology of Affordances: Implications for Researching Technological Affordances for Collaborative Knowledge Production** (2014) *Parchoma, G.*
-* **When is an Affordance? Outlining Four Stances** (2017) *Lanamaki, A. et al.*
-* **Information is Relational; Affordances Are Not** (2018?) *Wilson, A.*
+* **[Affordances: Four Points of Debate](https://www.researchgate.net/publication/228605380_Affordances_Four_Points_of_Debate)** (2003) *Michaels, C.*
+* **[The Problem with Affordance](240794632_The_Problem_with_Affordance)** (2005) *Martin, O.*
+* **[A Rich Landscape of Affordances](https://www.tandfonline.com/doi/pdf/10.1080/10407413.2014.958035)** (2014) *Rietveld, E.*
+* **[The Contested Ontology of Affordances: Implications for Researching Technological Affordances for Collaborative Knowledge Production](https://www.sciencedirect.com/science/article/abs/pii/S0747563214002428?via%3Dihub)** (2014) *Parchoma, G.*
+* **[When is an Affordance? Outlining Four Stances](https://www.researchgate.net/publication/310496488_When_Is_an_Affordance_Outlining_Four_Stances)** (2017) *Lanamaki, A. et al.*
+* **[Information is Relational; Affordances Are Not](https://psyarxiv.com/5qb92/)** (2018?) *Wilson, A.*
 * **[Dispensing with the theory (and philosophy) of affordances](https://journals.sagepub.com/doi/pdf/10.1177/0959354320980534)** (2020) *Mota, S.*
 
 ## Socio-cultural
