@@ -115,7 +115,7 @@ Designing interfaces through an ecological protocol.
 Key experiments providing empirical evidence for affordances.
 
 * **[Perceiving Affordances: Visual Guidance of Stair Climbing](https://www.researchgate.net/publication/16958397_Perceiving_Affordances_Visual_Guidance_of_Stair_Climbing)** (1984) *Warren, W.*
-* **[Auditory perception of breaking and bouncing events: A case study in ecological acoustics](https://www.researchgate.net/publication/200045328_Auditory_perception_of_breaking_and_bouncing_events_A_case_study_in_ecological_acoustics)** (1984) *Warren, W.*
+* **[Auditory perception of breaking and bouncing events: A case study in ecological acoustics](https://www.researchgate.net/publication/200045328_Auditory_perception_of_breaking_and_bouncing_events_A_case_study_in_ecological_acoustics)** (1984) *Warren, W. & Verbrugge, R.*
 * **[Visual Guidance of Walking Through Aperatures: Body-Scaled Information for Affordances](https://www.researchgate.net/publication/20196847_Visual_Guidance_of_Walking_Through_Apertures_Body-Scaled_Information_for_Affordances)** (1987) *Warren, W. & Whang, S.*
 * **[Dynamic Touch as Common Ground for Enactivism and Ecological Psychology](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01257/full)** (2020) *Travieso, D. et al.*
 
