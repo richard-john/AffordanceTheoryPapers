@@ -88,6 +88,7 @@ Coupling and embedding affordances in designed artifacts, computers and other th
 * **[Affordances: Clarifying and Evolving a Concept](https://www.researchgate.net/publication/221474920_Affordances_Clarifying_and_Evolving_a_Concep)** (2000) *McGrenere, J. & Ho, W.*
 * **[Cognitive, Physical, Sensory, and Functional Affordance in Interaction Design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.9149&rep=rep1&type=pdf)** (2003) *Hartson, H.*
 * **[A Comparison of Affordance Concepts and Product Semantics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.109.677&rep=rep1&type=pdf)** (2003) *You, H. & Chen, K.*
+* **[Affordance as context](http://comphacker.org/pdfs/631/indep%20turner%20affordance.pdf)** (2004) *Turner, P.*
 * **[Applications of Affordance and Semantics in Product Design](https://www.sciencedirect.com/science/article/abs/pii/S0142694X06000494?via%3Dihub)** (2006) *You, H. & Chen, K.*
 * **[Affordance in Interaction](https://eprints.qut.edu.au/69903/1/AffordanceInInteraction-ECCE13-CameraReady.pdf)** (2006) *Vyas, D. et al.*
 * **[Dynamics of Affordances and Implications for Design](https://eprints.qut.edu.au/69718/1/Affordance_VyasChisalitaDix.pdf0.pdf)** (2008) *Vyas, D. et al.*
