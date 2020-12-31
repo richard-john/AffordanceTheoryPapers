@@ -113,11 +113,11 @@ Designing interfaces through an ecological protocol.
 
 Key experiments providing empirical evidence for affordances.
 
-* **Perceiving Affordances: Visual Guidance of Stair Climbing** (1984) *Warren, W.*
-* **Visual Guidance of Walking Through Aperatures: Body-Scaled Information for Affordances** (1987) *Warren, W. & Whang, S.*
-* **Dynamic Touch as Common Ground for Enactivism and Ecological Psychology** (2020) *Travieso, D. et al.*
+* **[Perceiving Affordances: Visual Guidance of Stair Climbing](https://www.researchgate.net/publication/16958397_Perceiving_Affordances_Visual_Guidance_of_Stair_Climbing)** (1984) *Warren, W.*
+* **[Visual Guidance of Walking Through Aperatures: Body-Scaled Information for Affordances](https://www.researchgate.net/publication/20196847_Visual_Guidance_of_Walking_Through_Apertures_Body-Scaled_Information_for_Affordances)** (1987) *Warren, W. & Whang, S.*
+* **[Dynamic Touch as Common Ground for Enactivism and Ecological Psychology** (2020) *Travieso, D. et al.*
 
-## Cognitivist Perspectives
+## Cognitivist Perspective[s
 
 Cognitivists can have perspectives too.
 
