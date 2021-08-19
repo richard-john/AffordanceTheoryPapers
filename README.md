@@ -22,26 +22,17 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **[The Use and Misuse of the Concept of Affordance](http://aflux.in/files/dcc14_affordance.pdf)** (2014) *Burlamaqui, L. & Dong, A.*
 * **['Affordance' - What Does This Mean?](https://www.researchgate.net/profile/Stephen_Harwood2/publication/323773021_%27Affordance%27_-_what_does_this_mean/links/5aaa4a9f0f7e9b8826701a50/Affordance-what-does-this-mean.pdf)** (2017) *Harwood, S. & Hafeziech, N.*
 
-
-
 ## Ecological Information (Invariants)
 
 * **[Direct Perception](https://www.researchgate.net/profile/Claire_Michaels/publication/267258755_Direct_Perception/links/554121350cf2322227315337/Direct-Perception.pdf)** (1981) *Michaels, C. & Carello, C.*
 * **[ Action-Dependent Perceptual Invariants: From Ecological to
 Sensorimotor Approaches](https://halshs.archives-ouvertes.fr/halshs-00791131/document)** (2008) *Mossio, M. & Taraborelli, D.*
 
-
-
 ## Ecological Acoustics
 * **[Auditory perception of breaking and bouncing events: A case study in ecological acoustics](https://www.researchgate.net/publication/200045328_Auditory_perception_of_breaking_and_bouncing_events_A_case_study_in_ecological_acoustics)** (1984) *Warren, W. & Verbrugge, R.*
-
 * **[What in the world do we hear? An ecological approach to auditory event perception](https://www.researchgate.net/profile/William-Gaver/publication/200045160_What_in_the_World_Do_We_Hear_An_Ecological_Approach_to_Auditory_Event_Perception/links/00b7d51837bbd92c3d000000/What-in-the-World-Do-We-Hear-An-Ecological-Approach-to-Auditory-Event-Perception.pdf)** (1993) *Gaver, W.*
-
 * **[How do we hear in the world? Exploration in ecological acoustics](https://www.researchgate.net/profile/William-Gaver/publication/200045161_How_Do_We_Hear_in_the_World_Explorations_in_Ecological_Acoustics/links/00b4951837b63d4da4000000/How-Do-We-Hear-in-the-World-Explorations-in-Ecological-Acoustics.pdf)** (1993) *Gaver, W.*
-
 * **[Auditory Group Theory with applications to statistical basis methods for structured audio](https://web.media.mit.edu/~tristan/Classes/MAS.945/Papers/Technical/Casey_PhD.pdf)** (1998) *Casey, M.*
-
-
 
 ## Definitions and Ontological Debates
 
