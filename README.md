@@ -23,6 +23,26 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **['Affordance' - What Does This Mean?](https://www.researchgate.net/profile/Stephen_Harwood2/publication/323773021_%27Affordance%27_-_what_does_this_mean/links/5aaa4a9f0f7e9b8826701a50/Affordance-what-does-this-mean.pdf)** (2017) *Harwood, S. & Hafeziech, N.*
 
 
+
+## Ecological Information (Invariants)
+
+* **[Direct Perception](https://www.researchgate.net/profile/Claire_Michaels/publication/267258755_Direct_Perception/links/554121350cf2322227315337/Direct-Perception.pdf)** (1981) *Michaels, C. & Carello, C.*
+* **[ Action-Dependent Perceptual Invariants: From Ecological to
+Sensorimotor Approaches](https://halshs.archives-ouvertes.fr/halshs-00791131/document)** (2008) *Mossio, M. & Taraborelli, D.*
+
+
+
+## Ecological Acoustics
+* **[Auditory perception of breaking and bouncing events: A case study in ecological acoustics](https://www.researchgate.net/publication/200045328_Auditory_perception_of_breaking_and_bouncing_events_A_case_study_in_ecological_acoustics)** (1984) *Warren, W. & Verbrugge, R.*
+
+* **[What in the world do we hear? An ecological approach to auditory event perception](https://www.researchgate.net/profile/William-Gaver/publication/200045160_What_in_the_World_Do_We_Hear_An_Ecological_Approach_to_Auditory_Event_Perception/links/00b7d51837bbd92c3d000000/What-in-the-World-Do-We-Hear-An-Ecological-Approach-to-Auditory-Event-Perception.pdf)** (1993) *Gaver, W.*
+
+* **[How do we hear in the world? Exploration in ecological acoustics](https://www.researchgate.net/profile/William-Gaver/publication/200045161_How_Do_We_Hear_in_the_World_Explorations_in_Ecological_Acoustics/links/00b4951837b63d4da4000000/How-Do-We-Hear-in-the-World-Explorations-in-Ecological-Acoustics.pdf)** (1993) *Gaver, W.*
+
+* **[Auditory Group Theory with applications to statistical basis methods for structured audio](https://web.media.mit.edu/~tristan/Classes/MAS.945/Papers/Technical/Casey_PhD.pdf)** (1998) *Casey, M.*
+
+
+
 ## Definitions and Ontological Debates
 
 The ontological quagmire that is affordances.
@@ -69,7 +89,7 @@ Describing an affordance through formal and mathematical methods.
 
 A selection of key papers spanning the ecological and enactive debates.
 
-* **[Direct Perception](https://www.researchgate.net/profile/Claire_Michaels/publication/267258755_Direct_Perception/links/554121350cf2322227315337/Direct-Perception.pdf)** (1981) *Michaels, C. & Carello, C.*
+
 * **[Ecological Laws of Perceiving and Action: In Reply to Fodor and Pvlyshyn](https://www.researchgate.net/profile/Robert_Shaw6/publication/233683279_Ecological_foundations_of_cognition_I_Symmetry_and_specificity_of_animal-environment_systems/links/56a91b3308aeaeb4cef92cbc.pdf)** (1981) *Shaw, R. & Mace, W.*
 * **[Information, Perception, and Action: What Should Ecological Psychologists Learn From Milner and Goodale](https://www.researchgate.net/publication/247502077_Information_Perception_and_Action_What_Should_Ecological_Psychologists_Learn_From_Milner_and_Goodale_1995)** (2000) *Michaels, C.*
 * **[What we Perceive when we Perceive Affordances: Commentary on Michaels (2000) "Information, Perception, and Action"](https://www.tandfonline.com/doi/pdf/10.1207/S15326969ECO1302_3?casa_token=ItFr25GdRFoAAAAA:xqrKHztjAF350SlECb3LyO5iUYjicbDdO37OqqDWzXDxNYruOpAis5AVAfIE_bWYt8KDzKlBz7CSmQ)** (2001) *Chemero, A.*
@@ -115,10 +135,11 @@ Designing interfaces through an ecological protocol.
 
 Key experiments providing empirical evidence for affordances.
 
-* **[Perceiving Affordances: Visual Guidance of Stair Climbing](https://www.researchgate.net/publication/16958397_Perceiving_Affordances_Visual_Guidance_of_Stair_Climbing)** (1984) *Warren, W.*
-* **[Auditory perception of breaking and bouncing events: A case study in ecological acoustics](https://www.researchgate.net/publication/200045328_Auditory_perception_of_breaking_and_bouncing_events_A_case_study_in_ecological_acoustics)** (1984) *Warren, W. & Verbrugge, R.*
+* **[Information Is Where You Find It: Perception as an Ecologically Well-Posed Problem](http://www.haskins.yale.edu/Reprints/HL0574.pdf)** (1986) *Turvey, M. & Carello, C.*
+* **[Perceiving Affordances: Visual Guidance of Stair Climbing]( https://www.researchgate.net/publication/16958397_Perceiving_Affordances_Visual_Guidance_of_Stair_Climbing)** (1984) *Warren, W.*
 * **[Visual Guidance of Walking Through Aperatures: Body-Scaled Information for Affordances](https://www.researchgate.net/publication/20196847_Visual_Guidance_of_Walking_Through_Apertures_Body-Scaled_Information_for_Affordances)** (1987) *Warren, W. & Whang, S.*
 * **[Dynamic Touch as Common Ground for Enactivism and Ecological Psychology](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01257/full)** (2020) *Travieso, D. et al.*
+* **[Information Is Where You Find It: Perception as an Ecologically Well-Posed Problem](https://journals.sagepub.com/doi/pdf/10.1177/20416695211000366)** (2021) *Warren, W.*
 
 ## Cognitivist Perspectives
 
