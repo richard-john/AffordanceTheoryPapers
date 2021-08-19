@@ -21,6 +21,8 @@ Papers reviewing the literature on affordance theory from various perspectives.
 * **[Affordances (Chapter 44: Encyclopedia of HCI)](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affordances)** (2014) *Kaptelinin, V.*
 * **[The Use and Misuse of the Concept of Affordance](http://aflux.in/files/dcc14_affordance.pdf)** (2014) *Burlamaqui, L. & Dong, A.*
 * **['Affordance' - What Does This Mean?](https://www.researchgate.net/profile/Stephen_Harwood2/publication/323773021_%27Affordance%27_-_what_does_this_mean/links/5aaa4a9f0f7e9b8826701a50/Affordance-what-does-this-mean.pdf)** (2017) *Harwood, S. & Hafeziech, N.*
+* **[On the Evolution of a Radical Concept: Affordances According to Gibson and Their Subsequent Use and Development](https://journals.sagepub.com/doi/full/10.1177/1745691619868207)** (2019) *Chong, I. & Proctor, R.*
+
 
 ## Ecological Information (Invariants)
 
@@ -89,7 +91,7 @@ A selection of key papers spanning the ecological and enactive debates.
 * **[Pragmatism, Enactivism, and Ecological Psychology: Towards a Unified Approach to Post-cognitivism](https://link.springer.com/article/10.1007/s11229-019-02111-1)** (2019) *Heras-Escribano, M.*
 * **[Ecological mechanisms in cognitive science](https://cognitioninaction.files.wordpress.com/2019/10/golonka-wilson-2019-ecological-mechanisms-in-cognitive-science.pdf)** (2019) Golonka, S. et al.
 * **[An Enactive-Ecological Approach to Information and Uncertainty](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00588/full)** (2020) *Carvalho, E. & Rolla, G.*
-
+* **[Information, affordances and the control of action in sport](https://www.researchgate.net/profile/Duarte-Araujo-3/publication/38183786_Ecological_approaches_to_cognition_and_action_in_sport_and_exercise_Ask_not_only_what_you_do_but_where_you_do_it/links/0912f50aff778383cd000000/Ecological-approaches-to-cognition-and-action-in-sport-and-exercise-Ask-not-only-what-you-do-but-where-you-do-it.pdf#page=84)** (2008) *Fajen, R. et al.*
 
 ## Interaction Design and HCI
 
@@ -126,7 +128,7 @@ Designing interfaces through an ecological protocol.
 
 Key experiments providing empirical evidence for affordances.
 
-* **[Information Is Where You Find It: Perception as an Ecologically Well-Posed Problem](http://www.haskins.yale.edu/Reprints/HL0574.pdf)** (1986) *Turvey, M. & Carello, C.*
+* **[The ecological approach to perceiving-acting: a pictoral essay](http://www.haskins.yale.edu/Reprints/HL0574.pdf)** (1986) *Turvey, M. & Carello, C.*
 * **[Perceiving Affordances: Visual Guidance of Stair Climbing]( https://www.researchgate.net/publication/16958397_Perceiving_Affordances_Visual_Guidance_of_Stair_Climbing)** (1984) *Warren, W.*
 * **[Visual Guidance of Walking Through Aperatures: Body-Scaled Information for Affordances](https://www.researchgate.net/publication/20196847_Visual_Guidance_of_Walking_Through_Apertures_Body-Scaled_Information_for_Affordances)** (1987) *Warren, W. & Whang, S.*
 * **[Dynamic Touch as Common Ground for Enactivism and Ecological Psychology](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01257/full)** (2020) *Travieso, D. et al.*
