@@ -114,7 +114,7 @@ Coupling and embedding affordances in designed artifacts, computers and other th
 * **[A Review of Affordances and Affordance-Based Design to Address Usability](https://www.researchgate.net/publication/334715286_A_Review_of_Affordances_and_Affordance-Based_Design_to_Address_Usability)** (2019) *Masoudi, N. et al.*
 * **[Affordances of Shape-Changing Interfaces: An Information Perspective on Transformability and Movement](https://pure.au.dk/portal/files/194212788/DIS2020_AffordancesOfShapeChangingInterfaces_InformationPerspective_on_Transformability_and_Movement_Final.pdf)** (2020) *Petersen, M.*
 
-### Ecological Interface Design
+## Ecological Interface Design
 
 Designing interfaces through an ecological protocol.
 
